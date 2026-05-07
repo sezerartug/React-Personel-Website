@@ -25,7 +25,7 @@ const Hero = () => {
       {/* Background Image */}
       <div className="absolute inset-0">
         <img
-          src="../hero-bg.jpg"
+          src="../React-Personel-Website/hero-bg.jpg"
           alt="Hero background"
           className="w-full h-full object-cover opacity-40"
         />
@@ -92,7 +92,7 @@ const Hero = () => {
             <div className="relative max-w-md mx-auto">
               <div className="absolute inset-0 rounded-3xl bg-gradient-to-br from-primary/30 blur-2xl animate-pulse" />
               <div className="relative glass rounded-3xl p-2">
-                <img src="../profile.png" alt="Profile" className="w-full aspect-4/5 object-cover rounded-2xl" />
+                <img src="../React-Personel-Website/profile.png" alt="Profile" className="w-full aspect-4/5 object-cover rounded-2xl" />
               </div>
             </div>
           </div>
